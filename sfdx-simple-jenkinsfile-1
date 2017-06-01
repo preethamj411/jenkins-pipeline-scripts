@@ -14,7 +14,7 @@ node {
                     doGenerateSubmoduleConfigurations: false, 
                     extensions: [], submoduleCfg: [], 
                     userRemoteConfigs: [[
-                        credentialsId: 'a6de8c78-c606-4dd6-9c6c-a95c4b4ef3f9', 
+                        credentialsId: 'github', 
                         url: 'https://github.com/forcedotcom/sfdx-simple.git']
                     ]]
         )
