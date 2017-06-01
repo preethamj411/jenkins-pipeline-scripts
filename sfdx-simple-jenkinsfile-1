@@ -15,7 +15,7 @@ node {
                     extensions: [], submoduleCfg: [], 
                     userRemoteConfigs: [[
                         credentialsId: 'github', 
-                        url: 'https://github.com/forcedotcom/sfdx-simple.git']
+                        url: 'https://github.com/preethamj411/sfdx-simple.git']
                     ]]
         )
     }
